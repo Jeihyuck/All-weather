@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="페이지-1" id="Qcywb2sEuS2-xES_pZQ6">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P_WpEFYgCzm_JtMXwZd3-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WpEFYgCzm_JtMXwZd3-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WpEFYgCzm_JtMXwZd3-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WpEFYgCzm_JtMXwZd3-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon" vertex="1" parent="1">
+          <mxGeometry x="460" y="585" width="75" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
